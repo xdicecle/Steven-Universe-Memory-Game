@@ -86,5 +86,3 @@ src/
 ## License
 
 This project is for learning and personal development.
-# Steven-Universe-Memory-Game
-# Steven-Universe-Memory-Game
